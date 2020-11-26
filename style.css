@@ -1,0 +1,10 @@
+:root {
+    --stopRed: #A92D23;
+    --stopBlue: #32BFC0;
+}
+
+.test {
+    width: 200px;
+    height: 200px;
+    background-color: var(--stopRed);
+}
